@@ -32,9 +32,13 @@ Criar uma conta de usuário
 
 
 2 Crie um novo repositório
-![](Aspose.Words.be1058be-d481-44bd-bbcf-86de17f08c83.003.png)
+
+
 
 Utilizando as configurações DEFAULT
+
+![](Aspose.Words.be1058be-d481-44bd-bbcf-86de17f08c83.003.png)
+
 
 ![](Aspose.Words.be1058be-d481-44bd-bbcf-86de17f08c83.004.png)
 
